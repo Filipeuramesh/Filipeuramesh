@@ -1,4 +1,4 @@
-# programa to see if a number is perfect
+# programa to see if a number is perfect.
 
 n = int(input('Digite um número: '))
 c = 1
