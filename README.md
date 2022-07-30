@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Filipeuramesh
-- 👀 I’m interested in ... learn python
+- 👀 I’m interested in ... python
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...  a better improvment to my skills
 - 📫 How to reach me ... a programer carrier
