@@ -1,0 +1,17 @@
+# programa to see if a number is perfect
+
+n = int(input('Digite um número: '))
+c = 1
+p = 1
+d = 0
+
+while c < n:
+    if n % p == 0:
+        d += p
+    c += 1
+    p += 1
+    print(d)
+if d == n:
+    print('O número e perfeito')
+
+
